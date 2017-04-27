@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Andrawer</string>
+
+    <string name="new_drawing">New</string>
+    <string name="palette">Palette</string>
+    <string name="brush">Brush</string>
+    <string name="erase">Erase</string>
+    <string name="save">Save</string>
+    <string name="paint">Paint</string>
+
+    <string name="small">small</string>
+    <string name="medium">medium</string>
+    <string name="large">large</string>
+
+    <string name="ok">OK</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="save_drawing">Save your drawing</string>
+    <string name="want_to_save">Do you want to save drawings?</string>
+    <string name="start_new_drawing">Do you want to start a new drawing?</string>
+
+    <string name="drawing_save_suc">Your drawing is saved to gallery :)</string>
+    <string name="drawing_save_fail">Failed to save your drawing :( , please try again later. </string>
+
+    <string name="need_write_permission">You need write permission.</string>
+
+</resources>

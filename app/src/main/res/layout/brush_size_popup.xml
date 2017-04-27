@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical"
+              android:padding="13dp"
+              android:gravity="center"
+              android:background="@drawable/popup_bubble">
+    <ImageButton
+        android:id="@+id/small_brush"
+        style="@style/popup_btn"
+        android:contentDescription="@string/small"
+        android:src="@drawable/brush_symbol_small" />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#ffffff" />
+
+    <ImageButton
+        android:id="@+id/medium_brush"
+        style="@style/popup_btn"
+        android:contentDescription="@string/medium"
+        android:src="@drawable/brush_symbol_medium" />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#ffffff" />
+
+    <ImageButton
+        android:id="@+id/large_brush"
+        style="@style/popup_btn"
+        android:contentDescription="@string/large"
+        android:src="@drawable/brush_symbol_large"/>
+
+</LinearLayout>

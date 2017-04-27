@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:gravity="center">
+    <!-- Row -->
+    <LinearLayout
+        android:id="@+id/first_row_colors"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <ImageButton
+            style="@style/color_btn"
+            android:background="#000000"
+            android:tag="#000000" />
+
+        <ImageButton
+            style="@style/color_btn"
+            android:background="#564100"
+            android:tag="#564100" />
+
+        <ImageButton
+            style="@style/color_btn"
+            android:background="#6e6f71"
+            android:tag="#6e6f71" />
+
+        <ImageButton
+            style="@style/color_btn"
+            android:background="#c2b4a2"
+            android:tag="#c2b4a2" />
+
+        <ImageButton
+            style="@style/color_btn"
+            android:background="#cccccc"
+            android:tag="#cccccc" />
+
+        <ImageButton
+            style="@style/color_btn"
+            android:background="#d7d9cb"
+            android:tag="#d7d9cb" />
+
+        <ImageButton
+            style="@style/color_btn"
+            android:background="#ebe5d1"
+            android:tag="#ebe5d1" />
+
+        <ImageButton
+            style="@style/color_btn"
+            android:background="#ffffff"
+            android:tag="#ffffff" />
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/second_row_colors"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <ImageButton
+            style="@style/color_btn"
+            android:background="#FF660000"
+            android:tag="#FF660000" />
+
+        <ImageButton
+            style="@style/color_btn"
+            android:background="#5f6d9c"
+            android:tag="#5f6d9c" />
+
+
+        <ImageButton
+            style="@style/color_btn"
+            android:background="#9c4600"
+            android:tag="#9c4600" />
+
+        <ImageButton
+            style="@style/color_btn"
+            android:background="#819FF7"
+            android:tag="#819FF7" />
+
+        <ImageButton
+            style="@style/color_btn"
+            android:background="#FF990099"
+            android:tag="#FF990099" />
+
+        <ImageButton
+            style="@style/color_btn"
+            android:background="#FF0000FF"
+            android:tag="#FF0000FF" />
+
+        <ImageButton
+            style="@style/color_btn"
+            android:background="#BE81F7"
+            android:tag="#BE81F7"/>
+
+        <ImageButton
+            style="@style/color_btn"
+            android:background="#FFFF0000"
+            android:tag="#FFFF0000" />
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/third_row_colors"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <ImageButton
+            style="@style/color_btn"
+            android:background="#b5043b"
+            android:tag="#b5043b" />
+
+        <ImageButton
+            style="@style/color_btn"
+            android:background="#f13929"
+            android:tag="#f13929" />
+
+        <ImageButton
+            style="@style/color_btn"
+            android:background="#f13180"
+            android:tag="#f13180" />
+
+        <ImageButton
+            style="@style/color_btn"
+            android:background="#f8b7c9"
+            android:tag="#f8b7c9" />
+
+        <ImageButton
+            style="@style/color_btn"
+            android:background="#f8b7c9"
+            android:tag="#f8b7c9" />
+
+        <ImageButton
+            style="@style/color_btn"
+            android:background="#f2971f"
+            android:tag="#f2971f" />
+
+        <ImageButton
+            style="@style/color_btn"
+            android:background="#FFFF6600"
+            android:tag="#FFFF6600" />
+
+        <ImageButton
+            style="@style/color_btn"
+            android:background="#FFFFCC00"
+            android:tag="#FFFFCC00" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/fourth_row_colors"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <ImageButton
+            style="@style/color_btn"
+            android:background="#006958"
+            android:tag="#006958" />
+
+        <ImageButton
+            style="@style/color_btn"
+            android:background="#00925c"
+            android:tag="#00925c" />
+
+        <ImageButton
+            style="@style/color_btn"
+            android:background="#656d27"
+            android:tag="#656d27" />
+
+        <ImageButton
+            style="@style/color_btn"
+            android:background="#7c7c4d"
+            android:tag="#7c7c4d" />
+
+        <ImageButton
+            style="@style/color_btn"
+            android:background="#cfdab0"
+            android:tag="#cfdab0" />
+
+        <ImageButton
+            style="@style/color_btn"
+            android:background="#98ce48"
+            android:tag="#98ce48" />
+
+        <ImageButton
+            style="@style/color_btn"
+            android:background="#c8dd34"
+            android:tag="#c8dd34" />
+        <ImageButton
+            style="@style/color_btn"
+            android:background="#F3F781"
+            android:tag="#F3F781" />
+    </LinearLayout>
+
+</LinearLayout>
